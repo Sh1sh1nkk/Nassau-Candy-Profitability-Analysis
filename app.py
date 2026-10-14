@@ -286,3 +286,4 @@ with tabs[5]:
 
 st.sidebar.divider()
 st.sidebar.caption("Profitability signals support decision-making; confirm pricing, supplier terms, and strategic role before changing a product.")
+
